@@ -1,0 +1,15 @@
+your-project
+│   .env
+│   package.json
+│   server.js
+├───models
+│       user.js
+├───public
+│       style.css
+├───templates
+│       sign-up.hbs
+│       login.hbs
+│       home.hbs
+│       dashboard.hbs
+├───db
+│       conn.js
